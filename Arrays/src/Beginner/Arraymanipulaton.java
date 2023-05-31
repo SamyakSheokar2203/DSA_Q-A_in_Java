@@ -2,6 +2,8 @@ package Beginner;
 
 import java.util.Scanner;
 
+// find the unique number in a given Array where all the elements are being repeated twice with one value being unique
+
 public class Arraymanipulaton {
 
     public static int uniqueNum(int[] arr) {
