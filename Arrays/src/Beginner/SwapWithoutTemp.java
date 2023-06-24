@@ -2,7 +2,7 @@ package Beginner;
 
 // Given 2 integers a and b. swap the 2 given values using sum and difference method
 
-public class Swap {
+public class SwapWithoutTemp {
     public static void swapSum(int a, int b) {
         System.out.println("a: "+ a + ", b: "+ b);
         a = a + b;
